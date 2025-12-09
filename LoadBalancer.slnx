@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LoadBalancer.Core/LoadBalancer.Core.csproj" />
+    <Project Path="src/LoadBalancer.Host/LoadBalancer.Host.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LoadBalancer.Core.UnitTests/LoadBalancer.Core.UnitTests.csproj" />
+    <Project Path="tests/LoadBalancer.Core.IntegrationTests/LoadBalancer.Core.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
